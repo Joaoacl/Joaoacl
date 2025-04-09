@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o João</h1>
 <p align="center">
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-@joaoacl_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 <a href="https://www.linkedin.com/in/joao-ribeiro-099b2921b"><img src="https://img.shields.io/badge/-Joao%20Ribeiro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:joaoedu1902@gmail.com"><img src="https://img.shields.io/badge/-joaoedu1902@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
