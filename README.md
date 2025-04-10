@@ -37,4 +37,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![João Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaoacl&show_icons=true&theme=dracula)
+![João Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joaoacl&show_icons=true&theme=github_dark_dimmed)
